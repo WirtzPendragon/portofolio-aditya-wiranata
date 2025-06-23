@@ -113,7 +113,7 @@ export default function Home() {
           data-aos="fade-right"
         >
           <h1 className="text-[#213E22] font-semibold text-3xl lg:text-5xl mt-12 lg:mt-32">
-            Hello, I'm Suastika
+            Hello, Im Suastika
           </h1>
           <h2 className="text-[#213E22] font-semibold text-2xl mt-5">
             Web Designer
@@ -159,7 +159,7 @@ export default function Home() {
         </h1>
         <div>
           <p className="text-center text-base lg:text-lg mx-4 mt-4 lg:mx-56">
-            My name is Made Suastika Aditya Wiranata, I'm 17 years old. I am a
+            My name is Made Suastika Aditya Wiranata, Im 17 years old. I am a
             student of SMK Wira Harapan (Tegal Jaya), a person who can fast
             learner, honest and discipline. I enjoy to learn new things and get
             a new experience. I can work as a team and personal I love coding
